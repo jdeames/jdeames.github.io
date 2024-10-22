@@ -2,7 +2,7 @@ launched.md:
 
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Peaceable Writer, Horrible Blogger, Launches New Site"
 date: 2024-10-21
 ---
 
