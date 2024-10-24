@@ -3,6 +3,7 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
+			<img src="/img/smalledisonheader.jpg">
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
@@ -10,7 +11,8 @@
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
+		        	<li><a href="/bio">Bio</a><li>
+	        		<li><a href="/stories">Stories</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
@@ -20,10 +22,16 @@
 			
 			</div><!-- /.container -->
 			<footer>
+			
 	    		<ul>
-	        		<li><a href=" ">email</a></li>
-	        		<li><a href="https://peaceablewriter.com">peaceablewriter.com</a></li>
-				</ul>
+	        		<li><a href="https://instagram.com/peaceablewriter ">Instagram</a></li>
+	        		<li><a href="https://universeodon.com/@peaceablewriter">Mastodon</a></li>
+	        		<li><a href="https://linktr.ee/jdeames">Links</a></li>
+	        	</ul>
+	         <div>
+      			<small>{{site.time | date: '%Y'}} &copy; {{site.author}}</small>
+      		</div>
+    		 </div>
 			</footer>
 		</body>
 	</html>

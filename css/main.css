@@ -12,8 +12,14 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
 a:hover {
+
+img.bio {
+  float: right;
+}
+

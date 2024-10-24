@@ -1,8 +1,7 @@
-launched.md:
-
 ---
 layout: post
 title: "Peaceable Writer, Horrible Blogger, Launches New Site"
+category: jde
 date: 2024-10-21
 ---
 
