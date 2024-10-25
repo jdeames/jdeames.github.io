@@ -10,7 +10,6 @@ Over forty years ago, I fell in love with computing. Because I’m a writer ther
 The top 5 blog posts over the last 12 months were:
 
 	1. [Tale of a Vandal Notebook User: Going Indie, [Part 3 Chronodex](http://jdeames.github.io/blog/2014-01-01-taleNB3chronodex.html)
-	[Jekyll](https://jekyllrb.com)
 	2. Tale of a Vandal Notebook User: Going Indie, Part 2
 	3. Tale of a Vandal Pen User: State of the Hoard 2024
 	4. An Ink Journey
