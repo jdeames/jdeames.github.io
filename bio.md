@@ -5,7 +5,7 @@ permalink: /bio/
 exclude: false
 published: true
 ---
-<blockquote><em>“My play ‘Jitney’ had just been rejected by the O’Neill Playwrights Conference twice. So I thought, “OK, it’s time to rise above your talent.’ But how do you do that?’ The answer was, ‘You can write below your talent, can’t you?’ So I decided to try writing the best play ever written...”</em>–August Wilson, Seattle Times, January 23, 2005</blockquote>
+<blockquote><em>“My play ‘Jitney’ had just been rejected by the O’Neill Playwrights Conference twice. So I thought, “OK, it’s time to rise above your talent.’ But how do you do that?’ The answer was, ‘You can write below your talent, can’t you?’ So I decided to try writing the best play ever written...”</em>–<strong>August Wilson,</strong> Seattle Times, January 23, 2005</blockquote>
 <img alt="JD Eames" src="/img/jde.jpg" style="float:right">
 My stories often explore loss, grief, interconnectedness, and how—or if—we come back together after we’ve been driven apart. I’m deeply interested in life in all its forms (human, animal, feathered, not); concerned about our humanity and our survival.
 
