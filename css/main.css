@@ -11,11 +11,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-color: "dark grey"
 }
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #6082B8;
 }
 a:hover {
 
