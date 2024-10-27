@@ -12,7 +12,7 @@ Allegedly. True or not, it's a sentiment I love.
 
 I'm JD Eames, a playwright turned novelist. So I hope. Also, she/her/human in the Southwest.
 
-That quote attributed to the philosopher <a href="https://www.britannica.com/biography/Pierre-Teilhard-de-Chardin">Pierre Teilhard de Chardin</a> came from an old wise woman who told me many stories of de Chardin. She'd knew him in the 1950s. 
+That quote attributed to the philosopher <a href="https://www.britannica.com/biography/Pierre-Teilhard-de-Chardin">Pierre Teilhard de Chardin</a> came from an old wise woman who told me many stories of de Chardin. She knew him in the 1950s. Neither is alive today so I can't confirm it.
 
 The quote hung on my old WordPress blog—about fountain pens, ink, and notebooks—for some fourteen years.
 
@@ -24,6 +24,6 @@ This site is powered by [Jekyll](https://jekyllrb.com) and is a work in progress
 
 The fountain pen in the header is a bespoke Edison Huron made from Bexley Yellowstone, an Italian acrylic. Brian Grey of [Edison Pen Co.](https://edisonpen.com) made the pen for me in 2009. A great pen made by a really good human.
 
-Why do I call myself a "Peaceful Writer"? I'm a lifelong student of peace and nonviolence who is also a storyteller.
+Why do I call myself a "Peaceful Writer"? Short version: I'm a lifelong student of peace and nonviolence who is also a storyteller.
 
 *2024-Oct-26*
