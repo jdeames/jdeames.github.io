@@ -109,7 +109,7 @@ Please visit Patrick Ng's Scription blog. You'll find 2014 Chronodex planner pag
 
 You'll also find other folks contributions and download links via [Patrick's Facebook Chronodex page](https://www.facebook.com/chronodex "Facebook Chronodex page") (please reserve your anti-Facebook rants for elsewhere, ay?) **_Patrick announced his determination to release a Chronodex stamp in 2014, and you will find updates about that project on the Facebook page._**
 
-Thank you, [Patrick!](http://twitter.com/scription "patrick ng's twitter feed") While I'm late to discover your work, I'm very inspired by it in my small way.
+Thank you, Patrick! While I'm late to discover your work, I'm very inspired by it in my small way.
 
 It is cruel to waste someone's time, and in that vein I'm grateful to those of you who read my lengthy posts. I hope you find them worthy of your time.
 
