@@ -1,13 +1,60 @@
-title: JD Eames
+site: Peaceablewriter
 author: JD Eames
-description: > 
-    Personal website
 
-url: https://www.jdeames.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: ""      # place folder name if the site is served in a subfolder
+url: https://www.jdeames.com
+baseurl: ""
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "bio"
+    values:
+      layout: "page"     
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "project"
+      
 
 markdown: kramdown
-plugins:
-  - jekyll-feed
+require: kramdown-parser-gfm
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
   
-permalink: /blog/:categories/:title:output_ext
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 2
+paginate_path: "/blog/page:num/"
+  
