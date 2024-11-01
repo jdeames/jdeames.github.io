@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Tale of a Vandal Notebook User: Going Indie, Part 3 Chronodex"
-category: notebooks
-date: 2014-01-01
-published: true
+title: 'Tale of a Vandal Notebook User: Going Indie, Part 3 Chronodex'
+date: 2014-01-01 00:00:00
+featured_image: '/images/blposts/cpages1.jpg'
+excerpt: Consistently among the top read posts about notebooks
+
 ---
 
 **There's an update to this post here:**  Tale of a Vandal Notebook User: Chronodex Update (link needed)
@@ -22,7 +22,7 @@ Using a clock-like method, Patrick Ng designed [his Chronodex system](https://s
 
 Inspired folks have created downloads for all kinds of other notebook sizes. Check out Patrick's site as a starting point to see what's available.
 
-![Patrick Ng's Chronodex core](/img/blposts/chronodex-core.jpg){: width="604" } 
+![Patrick Ng's Chronodex core](/images/blposts/chronodex-core.jpg) 
 [Patrick Ng's](https://scription.typepad.com "Scription") Chronodex core. Beautiful, isn't it?
 
 Essentially Chronodex is at once a day's calendar, time planner, and recorder of your thoughts/notes. You make notations and highlight time periods on the circular image. You can highlight with colors, or any method you like.  The design is meant for those who wish to work outside a traditional time planner format.
@@ -47,13 +47,13 @@ Early on, I got confused a lot by how the early morning hours were laid out on t
 
 A very slight adjustment was helpful: I moved my evening hours into where Patrick had placed the very early morning hours. Sometimes it's the little things that keep you going.
 
-![My slight modification of Patrick Ng's Chronodex. This worked better for me-strange-self.](/img/blposts/chrono-core.jpg){: width=604}
+![My slight modification of Patrick Ng's Chronodex. This worked better for me-strange-self.](/images/blposts/chrono-core.jpg){: width=604}
 
 As I reflected on my use of the Chronodex core, I felt wasn't "getting" the full benefit of Patrick's design. And so I transformed the core into something that felt more comfortable and more like a 24-hour clock. Then I abandoned that modification, and went back to Patrick's original Chronodex core because it looks so elegant and freeing. Yet, I ended up abandoning it once again. Perhaps I can't work outside the box? \*sigh\*
 
 Here's my current transformation of Chronodex with humble apologies to Patrick and his elegant work:
 
-![The core as I'm using it as of this post.](/img/blposts/new-jde-use.jpg){: width=604} 
+![The core as I'm using it as of this post.](/images/blposts/jde-chrono-mod.jpg){: width=604} 
 The core as I'm using it as of this post. Need to do a better job next time at measuring the time marks, ay? Not perfect, but it's working. You are free to use it. (No! Why would you?) If I fix it, I'll update the above graphic. Why don't you use Patrick's instead? Whatever you do, [please send out your prayers](http://scription.typepad.com/blog/2013/12/scription-chronodex-weekly-planner-2014-free-download-with-the-cost-of-a-prayer.html "patrick's request") as Patrick has requested.
 
 ##### Time Tracking Notebook
@@ -70,7 +70,7 @@ My notebook is small enough that I can carry it in my back jeans pocket. It's al
 
 The paper is folded using a bone folder, and slipped into the notebook cover. Originally I was going to stitch the month's pages together. The bands used with the cover hold the paper quite tightly in place. Stitching pages to keep them together was unnecessary. 
 
-![Fresh notebook pages](/img/blposts/img_1815.jpg){: width="604" }  
+![Fresh notebook pages](/images/blposts/cpages1.jpg){: width="604" }  
 Fresh notebook pages. As you can see, only the image is printed. No extraneous "to-do" or whatnot items here! The day's date is hand written in the center circle.
 
 Stitching the pages may be a good idea if these pages are kept as any kind of archive. I'm undecided. I'm not as invested in paper keeping as a lot of my friends are, tending to scan papers [into Evernote](http://evernote.com "evernote!") for permanent record-keeping. More to be revealed as I write along and experiment, ay?
@@ -83,21 +83,21 @@ The Chronodex has given me a reason to use some radically different colors beyon
 
 Different colors, obviously, can be visual cues of the day's outcome. I'm still figuring out how color will work best for me. Some folks color code their time. Some folks are monochrome about their entries. Not sure yet what will work best for moi.
 
-![Some early pages... finding my way.](/img/blposts/img_1813-copy.jpg){: width="604" }  
+![Some early pages... finding my way.](/images/blposts/cpages2.jpg){: width="604" }  
 Some early pages... finding my way.
 
-![Left: an early tracking page.  Right: current style tracking page. Still figuring out how I want to use color to emphasize various times during the day.](/img/blposts/img_1812-copy.jpg){: width:604 } 
+![Left: an early tracking page.  Right: current style tracking page. Still figuring out how I want to use color to emphasize various times during the day.](/images/blposts/cpages3.jpg){: width:604 } 
 
 Left: an early tracking page. Right: current style tracking page. Still figuring out how I want to use color to emphasize various times during the day.
 
 And what about fountain pens? The pen usually clipped to my notebook is a Platinum Kanazawa-Haku inked with Sailor Sei-Boku.
 
-![Platinum Kanazawa-Haku Rabbit/Moon 18K nib](/img/blposts/pkh.jpg){: width="604" } 
+![Platinum Kanazawa-Haku Rabbit/Moon 18K nib](/images/blposts/pkh.jpg){: width="604" } 
 
 
 The pen's thin enough to keep the notebook pocket friendly. My Pilot MYU701, always inked with Pilot Blue, is also a constant at the ready. The Levenger True Writer has also been enlisted. It's inked with Sailor Yellow-Orange ink.
 
-![Levenger True Writer helps the cause](/img/blposts/trchrono.jpg){: width="604" }
+![Levenger True Writer helps the cause](/images/blposts/trchrono.jpg){: width="604" }
 
 Levenger True Writer helps the cause. You can see I'm still working out how I want to capture time segments. The lined dark lines represent writing or editing time. The yellow/orange color personal and family time.
 
