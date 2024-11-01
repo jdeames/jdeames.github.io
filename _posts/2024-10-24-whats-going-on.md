@@ -6,7 +6,7 @@ excerpt: Top 5 Posts from peaceablewriter at wordpress dot com
 ---
 
 
-Over forty years ago, I fell in love with computing. Because I’m a writer there was the inevitable blogging, especially once LiveJournal came into being around 2000. I’ve used many platforms and stayed with Wordpress the longest. But it’s time to shake things up. As of October 2024, I’ve archived my Wordpress blog known as peaceablewriter. After many years on Wordpress, the writing was on the wall to move on.
+Over forty years ago, I fell in love with computing. Because I’m a writer there was the inevitable blogging, especially once LiveJournal came into being around 2000. I’ve used many platforms and stayed with Wordpress the longest. But it’s time to shake things up. As of October 2024, I’ve archived my Wordpress blog known as peaceablewriter. After many years on Wordpress, [the writing was on the wall](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg) to move on.
 
 The top 5 blog posts over the last 12 months were:
 
