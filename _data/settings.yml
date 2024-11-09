@@ -13,8 +13,6 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/about'
-    - title: 'Bio'
-      url: '/bio'
     - title: 'Contact'
       url: '/contact'
 
