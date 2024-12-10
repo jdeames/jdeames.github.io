@@ -13,6 +13,8 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/about'
+    - title: 'Bio'
+      url: '/bio'
     - title: 'Contact'
       url: '/contact'
 
@@ -26,8 +28,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
   mastodon_url: 'https://universeodon.com/@peaceablewriter'
+  bluesky_url: 'https://bsky.app/profile/peaceablewriter.bsky.social'
   instagram_url: 'https://instagram.com/peaceablewriter'
   snapchat_url: ''
   youtube_url: ''
