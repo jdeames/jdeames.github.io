@@ -38,7 +38,14 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
       layout: "project"
+      
       
 
 markdown: kramdown
