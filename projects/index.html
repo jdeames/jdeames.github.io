@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Projects
-subtitle: JD's Thoughts
-description: projects is a fancy name for blog posts
-featured_image: /images/wposting.jpg
+subtitle: JD's haiku
+description: a lot of these appeared on Insta
+featured_image: /images/regghaiku.jpg
 ---
 
 <section class="intro">
@@ -24,7 +24,7 @@ featured_image: /images/wposting.jpg
 		{% for project in site.projects reversed %}
 
 		<div class="portfolio-item">
-
+	
 			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 
 				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image | relative_url }});"></div>
