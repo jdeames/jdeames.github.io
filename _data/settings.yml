@@ -32,7 +32,7 @@ contact_settings:
 social_settings:
   mastodon_url: 'https://universeodon.com/@peaceablewriter'
   bluesky_url: 'https://bsky.app/profile/peaceablewriter.bsky.social'
-  instagram_url: 'https://instagram.com/peaceablewriter'
+  instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

@@ -11,7 +11,7 @@ My first writing-world has been the theatre, and my plays have been performed in
 
 I've studied with several people over the years, but one writer was especially influential and I'm forever grateful for his mentorship. Playwright <a href="https://willdunnedramaticwriting.com"> Will Dunne</a> taught me all the fundamentals: how to construct plays, receive feedback, and be a collaborator. He always pushed for plays to be better.
 
-Born and raised in California, I've been a nomad for over thirty years. Finally finding home in beautiful, enchanted New Mexico, I live here with my beloved wife.
+Born and raised in California, I've been a nomad for over thirty years. Finally finding home in the Land of Enchantment, I live here with my beloved wife.
 
 
 Currently, I'm wrapping my dialogue-laden brain around novel writing. It's been a long, long, long process.
