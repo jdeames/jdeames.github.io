@@ -3,7 +3,6 @@ title: 'Tale of a Vandal Notebook User: Going Indie, Part 3 Chronodex'
 date: 2014-01-01 00:00:00
 featured_image: '/images/blposts/cpages1.jpg'
 excerpt: Consistently among the top read posts about notebooks
-
 ---
 
 **There's an update to this post here:**  Tale of a Vandal Notebook User: Chronodex Update (link needed)
