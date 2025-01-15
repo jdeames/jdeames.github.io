@@ -12,7 +12,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'haiku'
-      url: '/haiku/'
+      url: '/projects/'
     - title: 'about'
       url: '/about'
     - title: 'bio'
