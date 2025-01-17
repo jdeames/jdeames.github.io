@@ -2,7 +2,7 @@
 title: Bio
 subtitle: JD Eames
 description: Who is me
-featured_image: /images/jde.jpg
+featured_image: /images/souls/jde.jpg
 ---
 
 My stories often explore loss, grief, interconnectedness, and how—or if—we come back together after we’ve been driven apart. I’m deeply interested in life in all its forms (human, animal, feathered, not); concerned about our humanity and our survival.
@@ -24,4 +24,4 @@ Currently, I'm wrapping my dialogue-laden brain around novel writing. It's been 
 
 <center>June 2012 - Sep 16, 2024</center>
 
-![Doing what she loved best—playing ball.](/images/walker-2022.jpg)
+![Doing what she loved best—playing ball.](/images/souls/walker-2022.jpg)
