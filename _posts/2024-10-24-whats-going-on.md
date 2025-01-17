@@ -1,7 +1,7 @@
 ---
 title: 'What is Going On'
 date: 2024-10-24 00:00:00
-featured_image: '/images/zozo.jpg'
+featured_image: '/images/nm/zozo.jpg'
 excerpt: Top 5 Posts from peaceablewriter at wordpress dot com
 ---
 
@@ -10,7 +10,7 @@ Over forty years ago, I fell in love with computing. Because I’m a writer ther
 
 The top 5 blog posts over the last 12 months were:
 
-1. [Tale of a Vandal Notebook User: Going Indie, Part 3 Chronodex]({% post_url 2014-01-01-taleNB3chronodex %})
+1. [Tale of a Vandal Notebook User: Going Indie, Part 3 Chronodex]( /notebooks/taleNB3chronodex )
 2. Tale of a Vandal Notebook User: Going Indie, Part 2
 3. Tale of a Vandal Pen User: State of the Hoard 2024
 4. An Ink Journey
@@ -41,4 +41,4 @@ Oh yeah, still writing offline, as always.
 
 Stay kind and curious, friends.
 
-Featured image was taken by me at the 2019 burning of [Zozobra.](https://burnzozobra.com)
+*featured photo was taken by me at the 2019 burning of [Zozobra.](https://burnzozobra.com)*
