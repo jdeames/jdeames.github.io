@@ -1,4 +1,4 @@
-site: Peaceablewriter
+site: Peaceable Writer
 author: JD Eames
 
 url: https://www.jdeames.com
@@ -11,9 +11,15 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  haiku:
     output: true
-    permalink: /projects/:slug
+    permalilnk: /haiku/:slug
+  pens:
+    output: true
+    permalink: /pens/:slug
+  notebooks:
+    output: true
+    permalink: /notebooks/:slug
 
 defaults:
   -
@@ -24,29 +30,40 @@ defaults:
   -
     scope:
       path: ""
+      type: "haiku"
+    values:
+      layout: "haiku"
+  -     
+    scope:
+      path: ""
       type: "pages"
     values:
       layout: "page"
   -
     scope:
       path: ""
+      type: "notebooks"
+    values:
+      layout: "notebook"
+  -
+    scope:
+      path: ""
       type: "bio"
     values:
       layout: "page"     
-  -
+  - 
+    scope:
+      path: ""
+      type: "pens"
+    values:
+      layout: "pen"
+  - 
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      
-      
+
 
 markdown: kramdown
 require: kramdown-parser-gfm

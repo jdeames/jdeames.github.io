@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Peaceablewriter
+  site_title: Peaceable Writer
   site_tagline: The world is round so that friendship may encircle it.
   site_author: JD Eames
   favicon_image: /images/favicon.png
@@ -12,7 +12,13 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'haiku'
-      url: '/projects/'
+      url: '/haiku/'
+    - title: 'notebooks'
+      url: '/notebooks/'
+    - title: 'pens'
+      url: '/pens/'
+    - title: '————'
+      url: '/'
     - title: 'about'
       url: '/about'
     - title: 'bio'
