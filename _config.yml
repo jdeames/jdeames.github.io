@@ -1,5 +1,7 @@
 site: Peaceable Writer
+title: Peaceable Writer
 author: JD Eames
+description: JD's thoughts
 
 url: https://www.jdeames.com
 baseurl: ""
@@ -78,7 +80,22 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
 
 paginate: 2
 paginate_path: "/blog/page:num/"
-  
+
+jekyll-archives:
+  enabled: all
+  layout: archive
+ 
+
+feed:
+  collections:
+    haiku:
+      path: "/pwhaiku.xml"
+    notebooks:
+      path: "/pwnotebooks.xml"
+    pens:
+      path: "/pwpens.xml"
