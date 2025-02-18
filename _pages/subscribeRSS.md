@@ -12,11 +12,11 @@ Last updated: 18 February 2025
  3. Fountain pen articles: **pwpens.xml**
  4. Haiku: **pwhaiku.xml**
 
-You can subscribe to one or all.
+You can subscribe to one or more of them.
 
 I use RSS to manage a lot of my internet reading. Feeds can be found on nearly every website on the internet. You can even keep up with the [NY Times via their feeds.](https://www.nytimes.com/rss) You *might* have to be a subscriber, though.
 
-There are many fee-based or free RSS readers. If you need one, here's RSS Apps recommended by [LifeHacker](https://lifehacker.com/tech/best-rss-readers), [Wired](https://www.wired.com/story/best-rss-feed-readers/), and [iGeeksBlog](https://www.igeeksblog.com/best-rss-reader-apps-for-mac/). Feedly, NewsBlur, and Inoreader are very popular. I use News Explorer.
+There are many fee-based or free RSS readers. If you need one, here are RSS Apps recommended by [LifeHacker](https://lifehacker.com/tech/best-rss-readers), [Wired](https://www.wired.com/story/best-rss-feed-readers/), and [iGeeksBlog](https://www.igeeksblog.com/best-rss-reader-apps-for-mac/). Feedly, NewsBlur, and Inoreader are very popular. I use News Explorer.
 
 #### Alternatives to News reader Apps
 If you don't want to use an RSS reader, you can try using <a href="https://feedrabbit.com/">FeedRabbit</a> or <a href="https://blogtrottr.com/">Blogtrottr</a> to get RSS updates sent directly to your email. Both have free and paid plans.
