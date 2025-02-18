@@ -2,7 +2,8 @@
 title: 'New Year Update'
 date: 2025-01-17 00:00:00
 featured_image: '/images/nm/flattopmountainairnov2025.jpg'
-excerpt: what's happening here
+image: '/images/pwlogo.png'
+excerpt: 'update on website progress'
 ---
 
 Hey, if you're here reading and wondering, you're certainly special! Happy New Year to you, and hope you are buckled in for the crazy ride that's about to begin. Not here, but out there, where you sit. We have to watch out for each other, ay?
