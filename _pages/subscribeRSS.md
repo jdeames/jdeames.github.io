@@ -4,7 +4,7 @@ subtitle: feed generation uses Atom feed standard
 description: where to find rss feeds on the site
 featured_image: /images/misc/feedstore.jpg
 ---
-Last updated: 15 February 2025
+Last updated: 16 February 2025
 
 #### The RSS Feeds:
  1. Main page consists of announcements and news. Main posts: **feed.xml**

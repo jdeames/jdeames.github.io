@@ -28,7 +28,7 @@ menu_settings:
     - title: '————'
       url: '/'
     - title: 'RSS'
-      url: '/subscribeRSS'
+      url: '/subscriberss'
 
 grid_settings:
   grid_spacing: 10
