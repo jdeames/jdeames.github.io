@@ -4,6 +4,7 @@ date: 2014-01-01 00:00:00
 featured_image: '/images/notebooks/cpages1.jpg'
 excerpt: Consistently among the top read posts about notebooks
 ---
+01 January 2014
 
 **There's an update to this post here:**  Tale of a Vandal Notebook User: Chronodex Update (link needed)
 
