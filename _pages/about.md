@@ -6,11 +6,11 @@ featured_image: /images/pens/edisonrock.jpg
 ---
 
 
-The world is round so that friendship may encircle it. So said visionary Pierre Teilhard de Chardin.
+The world is round so that friendship may encircle it. So said visionary Pierre Teilhard de Chardin. Allegedly. 
 
-Allegedly. True or not, it's a sentiment I love.
+It's a sentiment I love.
 
-That quote attributed to the philosopher <a href="https://www.britannica.com/biography/Pierre-Teilhard-de-Chardin">Pierre Teilhard de Chardin</a> came from an old wise woman who told me many stories of de Chardin. She knew him in the 1950s. Neither is alive today so I can't confirm it.
+That quote attributed to the philosopher <a href="https://www.britannica.com/biography/Pierre-Teilhard-de-Chardin">Pierre Teilhard de Chardin</a> came from an old wise woman who told me many stories of de Chardin. She knew him in the 1950s.
 
 The quote hung on my old WordPress blog—about fountain pens, ink, and notebooks—for over fourteen years.
 

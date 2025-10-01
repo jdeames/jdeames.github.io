@@ -92,6 +92,7 @@ jekyll-archives:
  
 
 feed:
+  posts_limit: 20
   collections:
     haiku:
       path: "/pwhaiku.xml"
