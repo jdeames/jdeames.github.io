@@ -43,7 +43,7 @@ And you thought I didn't blog about pens anymore.
 A few links about Aurora cracks:
 
 
-- About the [Aurora 88 Minerali]( /pens/tale-of-a-vandal-pen-collector-aurora-88/ )
+- About the [Aurora 88 Minerali](/pens/tale-of-a-vandal-pen-collector-aurora-88/ )
 - FFN discussion about [Aurora Optima problems](https://www.fountainpennetwork.com/forum/topic/197005-aurora-optima-demonstrator-problem/)
 - FPN discussion about [Aurora Optima Demonstrators](https://www.fountainpennetwork.com/forum/topic/245856-thinking-of-buying-aurora-optima-demonstrator/)
 - FPN discussion about [Auroras Cracking](https://www.fountainpennetwork.com/forum/topic/331929-auroras-cracking/)
