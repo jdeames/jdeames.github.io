@@ -4,7 +4,6 @@ date: "2020-09-03"
 featured_image: '/images/pens/auroraduo.jpg'
 category: 'pens'
 ---
-
 03 September 2020
 
 Labor Day weekend in Santa Fe has everything to do with humans and despair:  the burning of [Old Man Gloom, _or Zozobra._](http://burnzozobra.com)  Happening **Friday Sep 4th**. This year, you can watch the spectacle online at [KOAT beginning 8pm Mountain Time.](http://koat.com) Thankfully, no spectators allowed this year because of COVID-19 precautions.
@@ -39,9 +38,9 @@ Rabbit holes can also be a kind of comfort against the onslaughts of a troubled 
 
 #### One Such Comforting Rabbit Hole: Pens, Of Course
 
-A while ago, a fountain pen catalog landed in our mail box—not addressed to me but to the non-pen aficionado in our household. Crazy, ay? Naturally, I was the one who read the catalog. The Aurora Duo Cart grabbed my attention. In the past, Aurora has done some cool [re-styling of the Duo Cart vintage pen.]("https://www.aurorapen.it/en/categoria-prodotto/pens/duo-cart-en/")
+A while ago, a fountain pen catalog landed in our mail box—not addressed to me but to the non-pen aficionado in our household. Crazy, ay? Naturally, I was the one who read the catalog. The Aurora Duo Cart grabbed my attention. In the past, Aurora has done some cool [re-styling of the Duo Cart vintage pen.](https://www.aurorapen.it/en/categoria-prodotto/pens/duo-cart-en/)
 
-Perhaps my only pen regret was not grabbing an [Aurora Archivi Storici 22](https://kmpn.blogspot.com/2009/01/aurora-historical-archive-022.html) when they were released some ten years ago. Aurora had taken parts from storage belonging to an older pen known as the Aurora 88p. They turned those parts into the [Storici 22](http://www.fountainpennetwork.com/forum/topic/152791-aurora-archivi-storici-022/). They were reasonably priced and sold out very quickly.
+Perhaps my only pen regret was not grabbing an [Aurora Archivi Storici 22](https://www.peytonstreetpens.com/aurora-archivi-storici-fountain-pen-022-piston-fill-medium-italic-14k-nib-excellent-works-well.html) when they were released some ten years ago. Aurora had taken parts from storage belonging to an older pen known as the Aurora 88p. They turned those parts into the [Storici 22](http://www.fountainpennetwork.com/forum/topic/152791-aurora-archivi-storici-022/). They were reasonably priced and sold out very quickly.
 
 Why did I hesitate on the Storici 22? I didn't like the nib. It was hooded. Ugly.
 
@@ -135,9 +134,11 @@ I'm hopeful the Aurora Duo Cart will prove trouble free. The idea that the vinta
 
 ![Alt text]( /images/pens/3-pens.jpg "Size comparison: Left to right Pilot Decimo, Aurora 2 Cart, Montegrappa Chile Pepper")
 
-I owe my understanding of vintage Aurora Duo Carts to [Giovanni Abrate's research.](https://newpentrace.net/articleGA01.html) On FPN, [user Diplomat](http://www.fountainpennetwork.com/forum/topic/111001-the-aurora-88-dynasty/) has also done excellent, extensive research on the Aurora 88 legacy (of which the Duo Cart is part). Sometimes when the two researchers conflict, I default to Giovanni who has been a long time pen collector. He's extremely knowledgable about Italian fountain pens and their history.
+I owe my understanding of vintage Aurora Duo Carts to [Giovanni Abrate's research.](https://web.archive.org/web/20220331085003/https://newpentrace.net/articleGA01.html) On FPN, [user Diplomat](http://www.fountainpennetwork.com/forum/topic/111001-the-aurora-88-dynasty/) has also done excellent, extensive research on the Aurora 88 legacy (of which the Duo Cart is part). Sometimes when the two researchers conflict, I default to Giovanni who has been a long time pen collector. He's extremely knowledgable about Italian fountain pens and their history.
 
-- Giovanni Abrate's article on Pentrace, [Aurora After World War II,](https://newpentrace.net/articleGA01.html) first appeared in The Pennant, 2006 Spring/Summer issue
+<strong>Note from 2025: I was saddened to read that Giovanni Abrate has passed away. He was kind, encouraging, and a legend in vintage pen collecting.</strong> Links to Pentrace (which Giovanni ran for many years) may be defunct.
+
+- Giovanni Abrate's article on Pentrace, [Aurora After World War II,](https://web.archive.org/web/20220331085003/https://newpentrace.net/articleGA01.html) first appeared in The Pennant, 2006 Spring/Summer issue
 - [News for Duo Cart Users! by Dillon Ang,](http://www.fountainpennetwork.com/forum/topic/14331-news-for-duocart-users/?hl=%2Bplatinum+%2Baurora+%2Bduo) FPN 2006 Aug 12
 - [Aurora Duo Cart: The Pen with the Ink Alarm,](http://www.fountainpennetwork.com/forum/topic/64172-aurora-duocart-the-pen-with-the-ink-alarm/) FPN 2008 May 22
 - [An overview of the modern Aurora Duo Cart](https://blog.andersonpens.com/aurora-duo-cart-video-review/) by Brian Anderson of AndersonPens, 2017 Jun 29
