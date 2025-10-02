@@ -6,6 +6,8 @@ excerpt: Consistently among the top read posts about notebooks
 ---
 >Note from 2005: Patrick Ng, the creator of the Chronodex, has built a new [Scription](https://www.scriptionstudio.com) website. My original post used the now-gone-out-of-business Typepad blog links which have been disabled. Visit Patrick's new site. It's beautiful. Chronodex is no longer free, reflecting [Patrick's rightful reclaiming of his creative work.](https://www.scriptionstudio.com/post/moving-on-in-2025-reclaiming-my-creative-journey-with-chronodex) Over the years, other people profited from Chronodex without permission. I'm glad to see him own his work in a new way.
 
+In 2024, this post was the top read post on the old Wordpress blog.
+
 01 January 2014
 
 **There's an update to this post here:**  Tale of a Vandal Notebook User: Chronodex Update (link needed)
