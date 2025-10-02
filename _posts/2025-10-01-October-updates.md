@@ -12,6 +12,8 @@ Finally, I've gotten around to writing you about what happened to one of my favo
 
 I want to promise regular posts, but can't. <em>(Hey! Struggling emotionally since 2016!)</em> But I do have plans and we'll see if the come into fruition here in the next few weeks and months. It helps that you have forgotten about me. hahahaha
 
+Requesting your kind patience as the website is still a construction zone. Some links are not working properly. Working to resolve those issues soon.
+
 #### New and Semi-new posts up on site
 - [When Pens Break - Part 2]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-2)
 - [When Pens Break - Part 1]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-1)
