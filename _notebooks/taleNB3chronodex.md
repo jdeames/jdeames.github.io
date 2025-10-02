@@ -4,6 +4,8 @@ date: 2014-01-01 00:00:00
 featured_image: '/images/notebooks/cpages1.jpg'
 excerpt: Consistently among the top read posts about notebooks
 ---
+>Note from 2005: Patrick Ng, the creator of the Chronodex, has built a new [Scription](https://www.scriptionstudio.com) website. My original post used the now-gone-out-of-business Typepad blog links which have been disabled. Visit Patrick's new site. It's beautiful. Chronodex is no longer free, reflecting [Patrick's rightful reclaiming of his creative work.](https://www.scriptionstudio.com/post/moving-on-in-2025-reclaiming-my-creative-journey-with-chronodex) Over the years, other people profited from Chronodex without permission. I'm glad to see him own his work in a new way.
+
 01 January 2014
 
 **There's an update to this post here:**  Tale of a Vandal Notebook User: Chronodex Update (link needed)
@@ -18,18 +20,19 @@ There's been much pondering over various digital and paper planners and trackers
 
 What? A non-linear way to track one's time? On paper? Of course! How wonderful!
 
-Using a clock-like method, Patrick Ng designed [his Chronodex system](https://scription.typepad.com/blog/2011/11/scription-chronodex-weekly-planner-2012-free-download-with-the-cost-of-a-prayer.html "patrick ng chronodex").  Generously he provides free downloads of a yearly planner for those using a Midori Traveler's notebook. **The cost has been a prayer for his parents. Patrick's [current prayer request is for his wife](https://scription.typepad.com/blog/2013/12/scription-chronodex-weekly-planner-2014-free-download-with-the-cost-of-a-prayer.html#.Ur26L2RDskU "patrick ng chronodex") who's undergoing treatment for breast cancer.**
+Using a clock-like method, Patrick Ng designed his Chronodex system. Generously, he provides free downloads of a yearly planner for those using a Midori Traveler's notebook. The cost has been a prayer for his parents. Patrick's current prayer request is for his wife who's undergoing treatment for breast cancer.
 
 Inspired folks have created downloads for all kinds of other notebook sizes. Check out Patrick's site as a starting point to see what's available.
 
 ![Patrick Ng's Chronodex core](/images/notebooks/chronodex-core.jpg) 
-[Patrick Ng's](https://scription.typepad.com "Scription") Chronodex core. Beautiful, isn't it?
+
+[Patrick Ng's](https://www.scriptionstudio.com/) Chronodex core. Beautiful, isn't it?
 
 Essentially Chronodex is at once a day's calendar, time planner, and recorder of your thoughts/notes. You make notations and highlight time periods on the circular image. You can highlight with colors, or any method you like.  The design is meant for those who wish to work outside a traditional time planner format.
 
 On Patrick's blog you'll see a lot of very colorful, artistic examples of how people use his system. About his design Patrick wrote,
 
-> Each page is like a branch of a tree, each opened page is a week, each day is like a beautiful flower grew from that page, consist of petals of your day's time slices.—[Patrick Ng, 2011 November 20](https://scription.typepad.com/blog/2011/11/scription-chronodex-weekly-planner-2012-free-download-with-the-cost-of-a-prayer.html#.UsGFrmRDskV "scription chronodex nov 2011 post")
+> Each page is like a branch of a tree, each opened page is a week, each day is like a beautiful flower grew from that page, consist of petals of your day's time slices.—Patrick Ng, 2011 November 20, from his closed Scription typepad blog
 
 Alongside those petals, many thoughts, ideas and records may generate as you use Chronodex. For myself in practice, the Chronodex feels like a seed in that grows as I, uh, feed it during the day. Patrick refers to his "clock" as the Chronodex core. That makes much sense to me, as it reminds me of the seed or core of a piece of fruit.
 
@@ -54,7 +57,8 @@ As I reflected on my use of the Chronodex core, I felt wasn't "getting" the full
 Here's my current transformation of Chronodex with humble apologies to Patrick and his elegant work:
 
 ![The core as I'm using it as of this post.](/images/notebooks/jde-chrono-mod.jpg){: width=604} 
-The core as I'm using it as of this post. Need to do a better job next time at measuring the time marks, ay? Not perfect, but it's working. You are free to use it. (No! Why would you?) If I fix it, I'll update the above graphic. Why don't you use Patrick's instead? Whatever you do, [please send out your prayers](http://scription.typepad.com/blog/2013/12/scription-chronodex-weekly-planner-2014-free-download-with-the-cost-of-a-prayer.html "patrick's request") as Patrick has requested.
+
+The core as I'm using it as of this post. Need to do a better job next time at measuring the time marks, ay? Not perfect, but it's working. You are free to use it. (No! Why would you?) If I fix it, I'll update the above graphic. Why don't you use Patrick's instead? Whatever you do, please send out your prayers as Patrick has requested.
 
 ##### Time Tracking Notebook
 
@@ -71,6 +75,7 @@ My notebook is small enough that I can carry it in my back jeans pocket. It's al
 The paper is folded using a bone folder, and slipped into the notebook cover. Originally I was going to stitch the month's pages together. The bands used with the cover hold the paper quite tightly in place. Stitching pages to keep them together was unnecessary. 
 
 ![Fresh notebook pages](/images/notebooks/cpages1.jpg){: width="604" }  
+
 Fresh notebook pages. As you can see, only the image is printed. No extraneous "to-do" or whatnot items here! The day's date is hand written in the center circle.
 
 Stitching the pages may be a good idea if these pages are kept as any kind of archive. I'm undecided. I'm not as invested in paper keeping as a lot of my friends are, tending to scan papers [into Evernote](http://evernote.com "evernote!") for permanent record-keeping. More to be revealed as I write along and experiment, ay?
@@ -84,6 +89,7 @@ The Chronodex has given me a reason to use some radically different colors beyon
 Different colors, obviously, can be visual cues of the day's outcome. I'm still figuring out how color will work best for me. Some folks color code their time. Some folks are monochrome about their entries. Not sure yet what will work best for moi.
 
 ![Some early pages... finding my way.](/images/notebooks/cpages2.jpg){: width="604" }  
+
 Some early pages... finding my way.
 
 ![Left: an early tracking page.  Right: current style tracking page. Still figuring out how I want to use color to emphasize various times during the day.](/images/notebooks/cpages3.jpg){: width:604 } 
@@ -103,9 +109,7 @@ Levenger True Writer helps the cause. You can see I'm still working out how I wa
 
 As my experiment ambles along towards the end of February, we'll see if the core gets tweaked again or even abandoned. Perhaps I'll even return to Patrick's original design. Patrick has blogged that he will give Chronodex tips during 2014. I  look forward to them.
 
-Please visit Patrick Ng's Scription blog. You'll find 2014 Chronodex planner pages waiting for you there:
-
-[2014 Chronodex Planner by Patrick Ng](http://scription.typepad.com/blog/2013/12/scription-chronodex-weekly-planner-2014-free-download-with-the-cost-of-a-prayer.html#.Ur26L2RDskU "2014 planner")
+Please visit Patrick Ng's Scription blog. You'll find 2014 Chronodex planner pages waiting for you there.
 
 You'll also find other folks contributions and download links via [Patrick's Facebook Chronodex page](https://www.facebook.com/chronodex "Facebook Chronodex page") (please reserve your anti-Facebook rants for elsewhere, ay?) **_Patrick announced his determination to release a Chronodex stamp in 2014, and you will find updates about that project on the Facebook page._**
 
