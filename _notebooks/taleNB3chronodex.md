@@ -12,9 +12,9 @@ As someone who's worked for herself for nearly two decades now, I'm disciplined 
 
 I've been experimenting with different ways to track how I spend my time. Tracking is not the same as planning time. Tracking is the "this is what really happened with time" details.
 
-There's been much pondering over various digital and paper planners and trackers, trying to decide the best way to capture my time spent. Then, in early November, this photo came across my twitter feed via [@the\_archer](https://twitter.com/the_archer "the archer's twitter feed") (thank you very much, Clem!):
+There's been much pondering over various digital and paper planners and trackers, trying to decide the best way to capture my time spent. Then, in early November, a photo came across my twitter feed (remember those days?) via Clem aka "the archer." Thank you very much, Clem!
 
-[Clem on Instagram](https://instagram.com/p/gQR65NlNXx/)
+[Here's Clem's photo on Instagram](https://instagram.com/p/gQR65NlNXx/)
 
 What? A non-linear way to track one's time? On paper? Of course! How wonderful!
 
