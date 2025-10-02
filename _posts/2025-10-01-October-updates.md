@@ -14,6 +14,8 @@ I want to promise regular posts, but can't. <em>(Hey! Struggling emotionally sin
 
 Requesting your kind patience as the website is still a construction zone. Some links are not working properly. Working to resolve those issues soon.
 
+If you want to be notified of updates, I encourage you to subscribe to RSS feeds. [Read here.](/subscriberss)
+
 #### New and Semi-new posts up on site
 - [When Pens Break - Part 2]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-2)
 - [When Pens Break - Part 1]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-1)
