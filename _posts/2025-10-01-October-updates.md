@@ -29,3 +29,5 @@ Requesting your kind patience as the website is still a construction zone. Some 
 This young hawk and I watched each other for awhile yesterday evening.
 
 ![featured photo: Immature Cooper's Hawk]( /images/souls/falltreewithhawk.jpg)
+
+*featured photo of a juvenile Cooper's Hawk was taken by me in my neighborhood*
