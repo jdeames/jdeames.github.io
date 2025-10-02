@@ -29,7 +29,7 @@ Hopefully, you can see the cracks in the plastic nib collar, and even in the acr
 
 I tried different things to prevent the ink from leaking, like replacing the teeny black seals, and applying silicon grease various places. Nothing worked for long. I finally sealed the cracks in the plastic nib collar with Captain Tolley's Creeping Crack Cure. That stopped the leaks. Seriously. At the same time, given enough time and pressure while writing with the pen, those micro cracks were bound to re-open. Also, an old pen repair guy's voice was in my head yelling at me.
 
-Then I went down a long rabbit hole trying to find another nib collar to replace the damaged one. I would have even settled for black in order to use the Motosu regularly, once again. Easier said then done, friends. You may have a broken #3776 Century, but try to find another one to use for parts. Pursuing a custom made nib collar found no one wanted to make one in clear plastic.
+Then I went down a long rabbit hole trying to find another nib collar to replace the damaged one. I would have even settled for black in order to use the Motosu regularly, once again. Easier said then done, friends. You may have a broken #3776 Century, but try to find another one to use for parts. Pursuing a custom made nib collar I found that no one wanted to make one in clear plastic. (When my pen friends protest and point me to a particular person do make one, trust that I did. We are a small community.)
 
 ![Alt text]( /images/pens/plnibunitpieces.jpg "nib unit in pieces")
 
@@ -37,7 +37,14 @@ At the beginning of said rabbit hole, I did try contacting Platinum for a replac
 
 All I can say is that it's a relief to get the Motosu writing properly again.
 
+Wishing you all kindness, bravery, curiosity in your lives, friends. See you anon.
+
+
+*featured photo: Platinum Motosu #3776 clear acrylic fountain pen inked with Aurora Turquoise*
+
 ![Alt text](/images/pens/plmotosudog.jpg "Platinum Motosu #3776 clear acrylic fountain pen inked with Aurora Turquoise ink")
+
+When Pens Break - [Part 1 is here.]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-1) They relate because both pens had microcracks discovered around the same time.
 
 Some links for your browsing pleasure:
 

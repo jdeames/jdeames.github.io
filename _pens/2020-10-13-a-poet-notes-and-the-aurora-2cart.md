@@ -90,7 +90,7 @@ That's all I wrote!
 - SohoNotes is gone, gone, gone.
 - From CollegeInfoGeek, [The 11 Best Note Taking Apps in 2020](https://collegeinfogeek.com/best-note-taking-apps/)
 - [What's Open Source?](https://opensource.com/resources/what-open-source)
-- [Aurora 2Cart]( /pens/tale-of-a-vandal-pen-collector-rambling-through-rabbit-holes/)
+- [Aurora 2Cart]( /pens/tale-of-a-vandal-pen-collector-rambling-through-rabbit-holes )
 
 Stay safe, kind and curious, my friends. See you anon.
 

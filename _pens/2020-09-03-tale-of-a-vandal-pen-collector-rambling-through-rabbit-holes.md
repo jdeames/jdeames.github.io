@@ -11,7 +11,7 @@ Labor Day weekend in Santa Fe has everything to do with humans and despair:  th
 
 Each year a huge 50+' marionette is built, then stuffed with all our worries, anxieties, depressing thoughts—all our glooms—and then Zozobra's burned away. The care and attention to detail in the event and the burning of Zozobra is uniquely New Mexican. Catch it when you can.
 
-![Alt text]( /images/misc/zozo.jpg "2019 Zozobra—one of the best events we've ever attended") 
+![Alt text]( /images/nm/zozo.jpg "2019 Zozobra—one of the best events we've ever attended") 
 
 #### Otherwise
 
@@ -77,11 +77,11 @@ The original Duo Carts came with different colored barrels (i.e., black, grey, b
 
 The Aurora Duo Cart sent me down a long twisty path. Should I acquire an original 1950s Duo Cart, or the Storici 22, or an Aurora 88, or perhaps the 88p? Or the new modern Duo Cart?
 
-Going deeper down the rabbit hole I even revisited other hooded-nibbed pens:  such as the Parker 51 and the Lamy 2000.
+Going deeper down the rabbit hole I even revisited other hooded-nibbed pens, such as the Parker 51 and the Lamy 2000.
 
-Considered an iconic American fountain  pen, the [Parker 51](http://www.richardspens.com/ref/profiles/51.htm) sucks up ink using an [aerometric filler](http://www.richardspens.com/ref/fillers/fillers.htm#aerometric). That means the pen uses a sac to hold the ink. I despise [pen sacs,](https://peaceablewriter.wordpress.com/2009/10/28/wahlflattop/) no matter how iconic the fountain pen may be. So, no thank you.
+Considered an iconic American fountain  pen, the [Parker 51](http://www.richardspens.com/ref/profiles/51.htm) sucks up ink using an [aerometric filler](http://www.richardspens.com/ref/fillers/fillers.htm#aerometric). That means the pen uses a sac to hold the ink. I despise pen sacs, no matter how iconic the fountain pen may be. No thank you.
 
-Lamy pens always sound like good ideas until I put one in my hand. Truthfully, I've never met a Lamy pen I got along with. Ah well...
+Lamy pens always sound like good ideas until I put one in my hand. Truthfully, I've never met a Lamy pen I got along with. Ah well.
 
 ![Alt text]( /images/pens/lamy-2.jpg "Lamy 2000 hooded nibs © Thomas Hall, with thanks!")
 

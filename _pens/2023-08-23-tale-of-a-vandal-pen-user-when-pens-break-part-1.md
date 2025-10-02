@@ -40,7 +40,8 @@ Since we moved to the Northern Mountains of New Mexico, I've had a few unexpecte
 
 And you thought I didn't blog about pens anymore.
 
-A few links about Aurora cracks:
+Link to [When Pens Break - Part 2 is here.]( /pens/tale-of-a-vandal-pen-user-when-pens-break-part-2)
+A few links about Aurora and cracks:
 
 
 - About the [Aurora 88 Minerali]( /pens/tale-of-a-vandal-pen-collector-aurora-88 )
@@ -49,4 +50,5 @@ A few links about Aurora cracks:
 - FPN discussion about [Auroras Cracking](https://www.fountainpennetwork.com/forum/topic/331929-auroras-cracking/)
 - Blog (in Chinese) about [Aurora Cracks](https://m.blog.naver.com/gom9203/40182659121) and [in English via Google Translate](https://m-blog-naver-com.translate.goog/gom9203/40182659121?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
-A refreshing YouTube video about accepting a pen's aesthetic flaws: https://www.youtube.com/watch?v=Zt-5hoEV1g4
+A refreshing YouTube video about accepting a pen's aesthetic flaws: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zt-5hoEV1g4?si=LT_ZvAfd9_x2rDRL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

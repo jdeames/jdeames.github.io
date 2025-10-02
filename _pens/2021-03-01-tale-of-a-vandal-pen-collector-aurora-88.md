@@ -8,7 +8,7 @@ category: 'pens'
 
 As promised, here's the tale of a recent fountain pen acquisition, an Aurora 88 Minerali Diopside. Last fall was my birthday, and I was told to buy two pens that I ordinarily wouldn't buy for myself.
 
-Since obtaining a vintage Aurora 2Cart in 2020, I've been thinking once again about nibs. One of the best writing nibs I ever had was made by Aurora,  an Extra-Fine 14K housed in an Aurora Optima Mini. I no longer have that pen, but the nib had a unique personality I've never forgotten—like writing with a soft pencil.
+Since obtaining a [vintage Aurora 2Cart]( /pens/tale-of-a-vandal-pen-collector-rambling-through-rabbit-holes) in 2020, I've been thinking once again about nibs. One of the best writing nibs I ever had was made by Aurora,  an Extra-Fine 14K housed in an Aurora Optima Mini. I no longer have that pen, but the nib had a unique personality I've never forgotten—like writing with a soft pencil.
 
 A modern Aurora 88 was my choice. I wanted a no-fuss pen with decent ink capacity, which meant getting the larger piston-filling 88, a modern 88, not a vintage one. The modern version because of my "no-fuss" desire—a  pen that could be carried outside the house without worrying about it barfing ink at will.
 
@@ -62,7 +62,7 @@ The Aurora 88 Minerali is one of the best-weighted pens I've written with. It's 
 
 The Aurora 88's not an inexpensive fountain pen. But it's well-made, backed by the manufacturer, and holds a decent amount of ink (around 1.3/1.4ml). Any writer would probably enjoy this pen. It could be the only pen in one's tiny hoard, too.
 
-Bear in mind that a new pen often takes the favorite spot for a period of time until it settles down amongst the others. But I can see a fountain pen collection of two: the 88 and a [Pilot Decimo](https://peaceablewriter.wordpress.com/2014/06/01/tale27/) for notes. Okay, three, because I can't give up my [Hakumin Edison Mina.](https://peaceablewriter.wordpress.com/2012/10/23/tale17/) Okay... um... I won't make any changes or predictions just yet. More to be revealed as I write along.
+Bear in mind that a new pen often takes the favorite spot for a period of time until it settles down amongst the others. But I can see a fountain pen collection of two: the 88 and a Pilot Decimo for notes. Okay, three, because I can't give up my Hakumin Edison Mina. Okay... um... I won't make any changes or predictions just yet. More to be revealed as I write along.
 
 ![Alt text](/images/pens/3pens.jpg "possible writer's trio")
 
