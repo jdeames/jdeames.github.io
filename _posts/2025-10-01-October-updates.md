@@ -12,7 +12,7 @@ Finally, I've gotten around to writing you about what happened to one of my favo
 
 I want to promise regular posts, but can't. <em>(Hey! Struggling emotionally since 2016!)</em> But I do have plans and we'll see if they come into fruition here in the next few weeks and months. It helps that you have forgotten about me. hahahaha
 
-Requesting your kind patience as the website is still a construction zone. Some links are not working properly. Working to resolve those issues soon.
+Requesting your kind patience as the website is still a construction zone. Some links may not be working properly. Working to resolve those issues soon.
 
 If you want to be notified of updates, I encourage you to subscribe to RSS feeds. [Read here.](/subscriberss)
 
