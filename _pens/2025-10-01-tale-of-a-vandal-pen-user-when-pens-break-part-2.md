@@ -33,7 +33,7 @@ Then I went down a long rabbit hole trying to find another nib collar to replace
 
 ![Alt text]( /images/pens/plnibunitpieces.jpg "nib unit in pieces")
 
-At the beginning of said rabbit hole, I did try contacting Platinum for a replacement collar. Crickets. A year later, I tried again, and Luxury Brand came through. But I couldn't simply purchase a nib collar and had to buy the whole unit (without a nib). Platinum had no Motosu parts available, so the replacement was from Oshino parts. The Oshino looks like the Motosu. (Ahem) Oshino Hakkai are the eight springs in the Fuji World Heritage Site. Bryce of Luxury Brands was very helpful and the delivery was quick. 
+At the beginning of said rabbit hole, I did try contacting Platinum for a replacement collar. Crickets. A year later, I tried again, and [Luxury Brands](https://platinumpenusa.com)—the USA distributor for Platium pens—came through. But I couldn't simply purchase a nib collar and had to buy the whole unit (without a nib). Platinum had no Motosu parts available, so the replacement was from Oshino parts. The Oshino looks like the Motosu. (Ahem) Oshino Hakkai are the eight springs in the Fuji World Heritage Site. Bryce of Luxury Brands was very helpful and the delivery was quick. 
 
 All I can say is that it's a relief to get the Motosu writing properly again.
 
