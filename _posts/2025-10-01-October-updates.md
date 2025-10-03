@@ -27,6 +27,9 @@ If you want to be notified of updates, I encourage you to subscribe to RSS feeds
 - [Lessons in Magic and Disaster](https://www.charliejaneanders.com), by Charlie Jane Anders
 - [Puppy Brain: How Our Dogs Learn, Think, and Love](https://www.goodreads.com/book/show/195391644-puppy-brain?from_search=true&from_srp=true&qid=lgja9574PB&rank=1), by Kerry Nichols
 
+#### Tea of the Day
+- 2008 Diangu XiZiHao, from [LiquidProust](https://www.etsy.com/shop/LiquidProust)
+
 ##### Meanwhile
 This young hawk and I watched each other for awhile yesterday evening.
 
