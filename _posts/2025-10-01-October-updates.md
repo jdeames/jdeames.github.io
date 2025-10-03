@@ -10,7 +10,7 @@ How the hell are you, friends? It's beautiful here in Santa Fe. Tree leaves are 
 
 Finally, I've gotten around to writing you about what happened to one of my favorite fountain pens, the Platinum Motosu #3776. Also, put up some old Aurora posts.
 
-I want to promise regular posts, but can't. <em>(Hey! Struggling emotionally since 2016!)</em> But I do have plans and we'll see if the come into fruition here in the next few weeks and months. It helps that you have forgotten about me. hahahaha
+I want to promise regular posts, but can't. <em>(Hey! Struggling emotionally since 2016!)</em> But I do have plans and we'll see if they come into fruition here in the next few weeks and months. It helps that you have forgotten about me. hahahaha
 
 Requesting your kind patience as the website is still a construction zone. Some links are not working properly. Working to resolve those issues soon.
 
