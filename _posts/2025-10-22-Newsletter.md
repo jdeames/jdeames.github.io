@@ -6,11 +6,9 @@ image: '/images/pwlogo.png'
 excerpt: 'newsletter announcement'
 ---
 
-Having been encouraged to give a newsletter another try, it's now live.
+Updated 10/30/2025:
 
-I hope you'll [subscribe here](https://jdeames.kit.com) for the monthly news, if you want to keep up with new puppy photos and news of my novel. Latest fountain pen post will be linked in the newsletter, too.
-
-First newsletter is [available here.](https://jdeames.kit.com/posts/Oct-2025)
+Having jumped too quickly in choosing a newsletter service, I'm now moving to another one. It will be live soon.
 
 
 #### Tea of the Day
